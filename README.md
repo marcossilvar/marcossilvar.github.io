@@ -1,32 +1,32 @@
-## Welcome to GitHub Pages
+## Otro formato MSS
 
 You can use the [editor on GitHub](https://github.com/marcossilvar/marcossilvar.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### FIC UDC
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Ta
+## Te
+### Ti
 
-- Bulleted
-- List
+- Suerte
+- Para
 
-1. Numbered
-2. List
+1. Ti
+2. (mucha)
 
-**Bold** and _Italic_ and `Code` text
+**Negra** and _Cursi_ and `codificada` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
 
 ### Jekyll Themes
 
